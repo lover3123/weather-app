@@ -1,4 +1,4 @@
-Here is a comprehensive documentation of your project based on the code we reviewed and the fixes we implemented. This is structured like a professional `README.md` file, which you can save directly into your project folder!
+
 
 ***
 
